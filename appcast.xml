@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Pong Remixed Mac Updates</title>
-    <description>Mac update feed. No update is offered while release preparation is in progress.</description>
-    <language>en</language>
-  </channel>
+ <channel>
+  <title>Pong Remixed Mac Updates</title>
+  <link>https://github.com/Droseph101/pong-remixed/releases</link>
+  <description>Pong Remixed updates for Mac</description>
+  <language>en</language>
+  <item>
+   <title>Pong Remixed 1.1</title>
+   <pubDate>Sat, 17 Oct 2026 20:46:53 GMT</pubDate>
+   <description>Controller support, refreshed menus and Guide, and built-in download-and-install updates.</description>
+   <sparkle:releaseNotesLink>https://github.com/Droseph101/pong-remixed/releases/tag/v1.1.0</sparkle:releaseNotesLink>
+   <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+   <enclosure url="https://github.com/Droseph101/pong-remixed/releases/download/v1.1.0/Pong.Remixed.Mac.zip" sparkle:version="1.1.0" sparkle:shortVersionString="1.1" sparkle:edSignature="QYsCrB4QOeyGUtew1tBlnRzUk640/lXmoljx8L9tsjxZ+w1YGLhJDlfkji0MA6ISWLexSAzzT8nGo1SI/TZADw==" length="47886058" type="application/octet-stream" />
+  </item>
+ </channel>
 </rss>
