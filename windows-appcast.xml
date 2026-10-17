@@ -6,11 +6,12 @@
   <description>Pong Remixed updates for Windows</description>
   <language>en</language>
   <item>
-   <title>Pong Remixed 1.1.1</title>
-   <pubDate>Sat, 17 Oct 2026 21:47:17 GMT</pubDate>
-   <description>Fixes paddle and ball scaling in large windows, and clipped bottom labels. Online play requires matching game versions.</description>
-   <sparkle:releaseNotesLink>https://github.com/Droseph101/pong-remixed/releases/tag/v1.1.1</sparkle:releaseNotesLink>
-   <enclosure url="https://github.com/Droseph101/pong-remixed/releases/download/v1.1.1/Pong.Remixed.Setup.1.1.1.exe" sparkle:version="1.1.1" sparkle:shortVersionString="1.1.1" sparkle:edSignature="JK8x2s8qf18oQpyfzD7oOlNsLu01Vwdgs1Fn3tPn7DxId2+rOvR7PubRtWZKGWcTXs01/pucI5tHSiSiPS4LAg==" length="50395908" type="application/octet-stream" />
+   <title>Pong Remixed 1.1.2</title>
+   <pubDate>Sat, 17 Oct 2026 23:18:07 GMT</pubDate>
+   <description>Online fullscreen scaling, Forward/Foresight synchronization and point resets, and improved online pause layout. Both online players must update.</description>
+   <sparkle:releaseNotesLink>https://github.com/Droseph101/pong-remixed/releases/tag/v1.1.2</sparkle:releaseNotesLink>
+   
+   <enclosure url="https://github.com/Droseph101/pong-remixed/releases/download/v1.1.2/Pong.Remixed.Setup.1.1.2.exe" sparkle:version="1.1.2" sparkle:shortVersionString="1.1.2" sparkle:edSignature="p2sq5ElrfIgAYJBzIsLVoeYwi2p8hXXGdnTNco/IR/uYuB1qxjycH7ss9IG8aY6Py5HhtmUg1pKsJSZzcYxGDA==" length="50314860" type="application/octet-stream" />
   </item>
  </channel>
 </rss>
